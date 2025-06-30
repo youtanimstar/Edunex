@@ -220,10 +220,11 @@ As a lifelong learner, I am committed to continuous growth and innovation in the
 
 | Method | Details |
 |--------|---------|
-| 📧 **Email** | contact@edunex.com |
-| 📍 **Location** | Kolkata, West Bengal, India |
-| 📞 **Phone** | +91 98765 43210 |
-| 🌐 **Website** | [www.edunex.com](http://localhost:5173) |
+| 📧 **Email** |  |
+| 📧 **Email** | deepdas.it34@gmail.com |
+| 📍 **Location** | Howrah, West Bengal, India |
+| 📞 **Phone** | +91 8697641505 |
+| 🌐 **Website** | [www.edunex.vercel.com](www.edunex.vercel.com) |
 
 ### 💬 **Contact Form**
 Visit our contact page to send us a message directly through our website form.
